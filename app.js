@@ -20,8 +20,8 @@ const firebaseConfig = {
   projectId : "home-demo-df29a" , 
   storageBucket : "home-demo-df29a.firebasestorage.app" , 
   messagingSenderId : "1079499791679" , 
-  appId : "1:1079499791679:web:d427e763356e2e724d078a" , 
-  measurementId : "G-1YCLPBTJ7J" 
+  appId : "1:1079499791679:web:d427e763356e2e724d078a" ,
+ 
 };
 
   // Initialize Firebase
